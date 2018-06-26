@@ -9,6 +9,6 @@ public class HelloWorldTest {
 
     @Test
     public void name() {
-    assertEquals("Hello", HelloWorld.printMessage());
+    assertEquals("Hello World", HelloWorld.printMessage());
     }
 }
